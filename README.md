@@ -234,4 +234,4 @@ High-RFM senders with sudden behaviour changes are prioritised for review.
 
 **Gayam Sai Kowshik Reddy**  
 B.Tech ECE — NIT Raipur | AI/ML Program — IIT Patna  
-[LinkedIn](https://www.linkedin.com/in/sai-kowshik-reddy-gayam-a5826a28a/) · [GitHub](https://github.com/gayamkowshik-afk) · gayamkowshik@gmail.com
+[LinkedIn](https://www.linkedin.com/in/sai-kowshik-reddy/) · [GitHub](https://github.com/gayamkowshik-afk) · gayamkowshik@gmail.com
